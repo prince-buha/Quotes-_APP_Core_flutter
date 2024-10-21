@@ -40,10 +40,10 @@ The **Quotes App** is a powerful tool designed to help users explore, customize,
 ###  Qoutes  Shared Page
    <img src="https://github.com/user-attachments/assets/d4fd5c03-42f2-40ed-9b32-264ac6c20b4f" width="250">
 
-   ## 📽️ Video
+## 📽️ Video
+   https://github.com/user-attachments/assets/474ab838-e725-4e25-abfe-a1de9f126d3b
 
-
-  ## Follow 👇
- LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
+ ## Follow 👇
+  LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
 
 
