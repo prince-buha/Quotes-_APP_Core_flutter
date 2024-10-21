@@ -23,3 +23,7 @@ The **Quotes App** is a powerful tool designed to help users explore, customize,
 6. **Download**: Save your customized quote directly to your device for offline use or sharing.
 
 
+    ## Follow
+ LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
+
+
