@@ -23,6 +23,29 @@ The **Quotes App** is a powerful tool designed to help users explore, customize,
 6. **Download**: Save your customized quote directly to your device for offline use or sharing.
 
 ## 📸 Screenshot 
+## 📸 Screen Shorts 
+
+- ### SpleshScreen
+ <img src="https://github.com/user-attachments/assets/7d5aea3b-9956-4393-b2c9-1f6f71049341" width="250">
+
+- ### Homepage
+ <img src="https://github.com/user-attachments/assets/c6f18b44-d3d5-49ee-b1b4-69eca7c1cf71" width="250">
+
+ - ### Bulid Opation page
+
+ <img src="https://github.com/user-attachments/assets/5f819278-4401-42ff-b430-e2f89d71aad7" width="250">
+
+ - ### carrier objective page
+<img src="https://github.com/user-attachments/assets/4476d099-6df1-47d6-adee-ba974389bdf5" width="250">
+
+ - ### contact info page
+<img src="https://github.com/user-attachments/assets/30b610f9-c207-41f1-b0b9-f57c3a0599d3" width="250">
+
+ - ### education page
+<img src="https://github.com/user-attachments/assets/a43a72bb-3c8e-43a6-99a5-5e4d5fcf1b42" width="250">
+
+ - ### Personal detail page
+<img src="https://github.com/user-attachments/assets/0d41795b-f32d-47cf-a199-8e5de9805cec" width="250">
 
   ## Follow 👇
  LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
