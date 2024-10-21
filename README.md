@@ -22,23 +22,25 @@ The **Quotes App** is a powerful tool designed to help users explore, customize,
 5. **Share with Emojis**: Share quotes via social media, adding your favorite emojis to give them extra life.
 6. **Download**: Save your customized quote directly to your device for offline use or sharing.
 
-## 📸 Screenshot 
+
 ## 📸 Screen Shorts 
 
-- ### SpleshScreen
- <img src="https://github.com/user-attachments/assets/6632cd87-d8a7-4f61-9c90-9daf93926efd" width="250">
+### SpleshScreen
+   <img src="https://github.com/user-attachments/assets/6632cd87-d8a7-4f61-9c90-9daf93926efd" width="250">
 
-- ### Qoutespage
- <img src="https://github.com/user-attachments/assets/def6b4f7-9ddf-4d37-addf-723bd35a778e" width="250">
+### Qoutespage
+   <img src="https://github.com/user-attachments/assets/def6b4f7-9ddf-4d37-addf-723bd35a778e" width="250">
 
- - ### Qoutes Edit Page
+### Qoutes Edit Page
    <img src="https://github.com/user-attachments/assets/1c65145c-94a9-4f7c-a165-f67551e784eb" width="250">
 
- - ###  Qoutes favorite Page
-<img src="https://github.com/user-attachments/assets/d046dee5-585e-41bf-9066-c1ce643ac568" width="250">
+###  Qoutes favorite Page
+   <img src="https://github.com/user-attachments/assets/d046dee5-585e-41bf-9066-c1ce643ac568" width="250">
 
- - ###  Qoutes  Shared Page
-<img src="https://github.com/user-attachments/assets/d4fd5c03-42f2-40ed-9b32-264ac6c20b4f" width="250">
+###  Qoutes  Shared Page
+   <img src="https://github.com/user-attachments/assets/d4fd5c03-42f2-40ed-9b32-264ac6c20b4f" width="250">
+
+   ## 📽️ Video
 
 
   ## Follow 👇
