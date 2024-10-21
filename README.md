@@ -25,22 +25,28 @@ The **Quotes App** is a powerful tool designed to help users explore, customize,
 
 ## 📸 Screen Shorts 
 
-### SpleshScreen
-   <img src="https://github.com/user-attachments/assets/6632cd87-d8a7-4f61-9c90-9daf93926efd" width="250">
+### SpleshScreen :
 
-### Qoutespage
-   <img src="https://github.com/user-attachments/assets/def6b4f7-9ddf-4d37-addf-723bd35a778e" width="250">
+   <img src="https://github.com/user-attachments/assets/6632cd87-d8a7-4f61-9c90-9daf93926efd" width="300">
 
-### Qoutes Edit Page
-   <img src="https://github.com/user-attachments/assets/1c65145c-94a9-4f7c-a165-f67551e784eb" width="250">
+### Qoutespage :
 
-###  Qoutes favorite Page
-   <img src="https://github.com/user-attachments/assets/d046dee5-585e-41bf-9066-c1ce643ac568" width="250">
+   <img src="https://github.com/user-attachments/assets/def6b4f7-9ddf-4d37-addf-723bd35a778e" width="300">
 
-###  Qoutes  Shared Page
-   <img src="https://github.com/user-attachments/assets/d4fd5c03-42f2-40ed-9b32-264ac6c20b4f" width="250">
+### Qoutes Edit Page :
 
-## 📽️ Video
+   <img src="https://github.com/user-attachments/assets/1c65145c-94a9-4f7c-a165-f67551e784eb" width="300">
+
+###  Qoutes favorite Page :
+
+   <img src="https://github.com/user-attachments/assets/d046dee5-585e-41bf-9066-c1ce643ac568" width="300">
+
+###  Qoutes  Shared Page :
+
+   <img src="https://github.com/user-attachments/assets/d4fd5c03-42f2-40ed-9b32-264ac6c20b4f" width="300">
+
+## 📽️ Video : 
+
    https://github.com/user-attachments/assets/474ab838-e725-4e25-abfe-a1de9f126d3b
 
  ## Follow 👇
