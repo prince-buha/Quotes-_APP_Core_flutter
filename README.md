@@ -31,13 +31,13 @@ The **Quotes App** is a powerful tool designed to help users explore, customize,
 - ### Qoutespage
  <img src="https://github.com/user-attachments/assets/def6b4f7-9ddf-4d37-addf-723bd35a778e" width="250">
 
- - ### Qoutes Add Page
+ - ### Qoutes Edit Page
    <img src="https://github.com/user-attachments/assets/1c65145c-94a9-4f7c-a165-f67551e784eb" width="250">
 
- - ### favorite Qoutes Page
+ - ###  Qoutes favorite Page
 <img src="https://github.com/user-attachments/assets/d046dee5-585e-41bf-9066-c1ce643ac568" width="250">
 
- - ### Shared Qoutes Page
+ - ###  Qoutes  Shared Page
 <img src="https://github.com/user-attachments/assets/d4fd5c03-42f2-40ed-9b32-264ac6c20b4f" width="250">
 
 
