@@ -22,8 +22,7 @@ The **Quotes App** is a powerful tool designed to help users explore, customize,
 5. **Share with Emojis**: Share quotes via social media, adding your favorite emojis to give them extra life.
 6. **Download**: Save your customized quote directly to your device for offline use or sharing.
 
-
-    ## Follow
+  ## Follow 👇
  LinkedIn  = "https://www.linkedin.com/in/prince-buha-9674a22b2/"
 
 
